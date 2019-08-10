@@ -1,0 +1,62 @@
+.header-icon{
+ height: 5vmin;
+ width: 5vmin;
+}
+
+.header{
+    background-color: solid #f9f9f9;
+    box-shadow: 1px -1px 23px .5px rgba(0,0,0,0.14);
+    text-align: center;
+    font-size: 3vmax;
+    padding-top: .5vmax;
+    padding-bottom: .5vmax;
+    font-family: 'Red Hat Display', sans-serif;
+
+}
+
+.article{
+    margin-top: 5vmin;
+}
+
+.article-header{
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 7vmax;
+    color: #9d9d9d;
+    }
+
+.article-details{
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 1.6vmax;
+    color: #8a8a8a;
+}
+
+.article-body{
+    margin-top: 2vmax;
+    margin-bottom: 2vmax;
+    font-family: 'Red Hat Display', sans-serif;
+    text-align: justify;
+}
+
+.article-author{
+    margin-top: 2vmax; 
+    margin-bottom: 2.5vmax;
+}
+
+.article-author-name{
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 3vmax;
+    color: #8a8a8a; 
+    margin-bottom: 0px;
+}
+
+.article-author-about{
+    margin-top: 0px;
+    font-size: 2vmax;
+}
+
+.article-author-contact{
+    font-family: 'Red Hat Display', sans-serif;
+    font-size: 2vmax;
+    color: #8a8a8a; 
+    margin-bottom: 0px;
+}
